@@ -21,8 +21,8 @@
 **Cossack Bread** ("Казачий хлеб") is a bakery chain website featuring an interactive product catalog, company history, contact information, and product detail pages.
 
  
+## <p><img src="https://play-lh.googleusercontent.com/tf_PgRC3aOZ60jNwwAqGw5upcsKX31TBbQMN0wnuAL2-grcFnZMzlxTe21BOIcVN-A79oT-XGDSTigiXODGAo_s" width="20" alt="HTML5" /> Project Structure</p>
 
-## <p><img src="[https://play-lh.googleusercontent.com/tf_PgRC3aOZ60jNwwAqGw5upcsKX31TBbQMN0wnuAL2-grcFnZMzlxTe21BOIcVN-A79oT-XGDSTigiXODGAo_s)" width="20" alt="HTML5" /></p> Project Structure
 
 ```text
 ├── css/              # Stylesheets and layout design files
