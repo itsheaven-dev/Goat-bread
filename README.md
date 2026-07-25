@@ -20,17 +20,7 @@
 
 **Cossack Bread** ("Казачий хлеб") is a bakery chain website featuring an interactive product catalog, company history, contact information, and product detail pages.
 
----
-
-## ✨ Features & Pages
-
-* 🏠 **Home Page (`index.html`):** Main landing page with bakery background, mission statement, and featured items.
-* 🥐 **Assortment Page (`assortiment.html`):** Full catalog of baked goods, breads, and pastries.
-* 📦 **Product Cards (`product/`):** Dedicated page layouts for detailed product views.
-* 📞 **Contacts Page (`contact.html`):** Store locations, feedback form, and contact info.
-* 🎨 **Custom Typography & Design:** Custom fonts, responsive layouts, and modern UI styles.
-
----
+ 
 
 ## 📁 Project Structure
 
