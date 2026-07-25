@@ -22,7 +22,7 @@
 
  
 
-## 📁 Project Structure
+## <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://play-lh.googleusercontent.com/tf_PgRC3aOZ60jNwwAqGw5upcsKX31TBbQMN0wnuAL2-grcFnZMzlxTe21BOIcVN-A79oT-XGDSTigiXODGAo_s)" width="20" alt="HTML5" /> Project Structure
 
 ```text
 ├── css/              # Stylesheets and layout design files
