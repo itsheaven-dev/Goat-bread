@@ -37,16 +37,7 @@
 ```
 ## Start
 
-```
-Quick Start
-Clone the repository:
 
-Bash
-git clone [https://github.com/itsheaven-dev/Goat-bread.git](https://github.com/itsheaven-dev/Goat-bread.git)
-Navigate to the project directory:
-
-Bash
-cd Goat-bread
-Open in Browser:
-Simply open index.html in your web browser or launch it using VS Code Live Server.
 ```
+git clone https://github.com/itsheaven-dev/Goat-bread.git
+ 
